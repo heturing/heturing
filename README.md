@@ -24,6 +24,8 @@ I work on scalable and precise static analysis for C/C++ programs, with a focus 
 
 <!--takatime-start-->
 
+<h2 align="center">TakaTime Weekly Report</h2>
+
 <p align="center">
   <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
   <img src="./public/taka-languages30.png" width="400" alt="Languages" />
